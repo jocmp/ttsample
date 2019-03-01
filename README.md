@@ -27,7 +27,7 @@ Demo program for testing the tt library <https://github.com/jocmp/tt>
 
 This is the hardest part, but easier with some patience.
 
-Apply and get your [CTA API Key](https://www.transitchicago.com/developers/traintrackerapply/). So long as you're not maliciously scraping CTA data or posing as an official app, you should be okay for using it. You should receive your key in an email within a week or so.
+Apply and get your [CTA API Key](https://www.transitchicago.com/developers/traintrackerapply/). So long as you're not maliciously scraping CTA data or posing as an official app, you'll be okay to use the API freely. You should receive your key in an email within a week or so.
 
 ### Download Golang
 
@@ -39,4 +39,4 @@ Download [golang v1.11 or above](https://golang.org/doc/install)
 
 
 ### Run the program
-Clone this repository, and `go build using your KEY var` inside [main.go](https://github.com/jocmp/ttsample/blob/master/main.go)
+Clone this repository, and `go build` using your KEY var inside [main.go](https://github.com/jocmp/ttsample/blob/master/main.go)
